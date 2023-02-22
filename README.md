@@ -1,17 +1,11 @@
 <p align="center">
  <img width="100px" src="questionnaire.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Samurai Arcade Game</h2>
+ <h2 align="center">Quiz App</h2>
  <p align="center">
-Repository created with the purpose of learning. This game was developed by Chriscourses in his game tutorial of his youtube channel</p>
+Repository created with the purpose of learning. This is a simple quiz of Math</p>
 
   <p align="center">
-    <a href="https://samurai-arcade.netlify.app" target="_blank">View Demo</a>
-    ·
-    <a href="https://youtu.be/vyqbNFMDRGQ" target="_blank">Video Tutorial</a>
-    ·
-    <a href="https://www.youtube.com/@ChrisCourses" target="_blank">Youtube Channel</a>
-    ·
-    <a href="https://github.com/chriscourses" target="_blank">GitHub Chriscourses</a>
+    <a href="https://simple-quiz-app-math.netlify.app" target="_blank">View Demo</a>
   </p>
 </p>
 
